@@ -31,4 +31,7 @@ This project is the culmination of my work in the IBM Data Visualization course.
 - **Total Expenditure Share by Vehicle Type during Recession (Pie Chart):** Explore the company's expenditure allocation during economic downturns, shedding light on resource management.
 
 - **Effect of Unemployment Rate on Vehicle Type and Sales (Bar Chart):** Uncover the correlation between the unemployment rate and the performance of different vehicle types, providing a deeper understanding of market dynamics.
+
+
+
 [Automobile Sales Statistics Dashboard](https://datteshsri4-8050.theianext-1-labs-prod-misc-tools-us-east-0.proxy.cognitiveclass.ai/)
