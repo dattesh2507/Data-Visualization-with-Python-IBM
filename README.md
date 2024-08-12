@@ -2,4 +2,4 @@
 
 
 
-Creating Dashboards [](https://datteshsri4-8050.theiaopenshiftnext-0-labs-prod-theiaopenshift-4-tor01.proxy.cognitiveclass.ai/)
+[Australia Wildfire Dashboard](https://datteshsri4-8050.theiaopenshiftnext-0-labs-prod-theiaopenshift-4-tor01.proxy.cognitiveclass.ai/)
