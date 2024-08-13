@@ -56,6 +56,8 @@ This badge earner has a good understanding of what data visualization is, uses o
 
 # Australian Wildfire Data Analysis and Visualization
 [Analyzing wildfire activities in Australia](https://github.com/dattesh2507/Data-Visualization-with-Python-IBM/blob/main/Analyzing%20wildfire%20activities%20in%20Australia.ipynb)
+
+
 Wildfire Dataset Analysis and Visualization using Matplotlib, Seaborn, Pandas, Folium, Plotly, and Dash
 
 **Description**
