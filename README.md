@@ -55,7 +55,11 @@ This badge earner has a good understanding of what data visualization is, uses o
 
 # IBM Data Visualization Course Project:
 [Automobile Statistics Dashboard using Dash](https://github.com/dattesh2507/Data-Visualization-with-Python-IBM/blob/main/Automobile%20Sales%20Statistics%20Dashboard.py)
+
+
 [Automobile Sales Statistics Dashboard](file:///C:/Users/Dattesh/Downloads/Untitled6%20(1).html)
+
+
 This project is the culmination of my work in the IBM Data Visualization course. It involves the creation of an interactive dashboard using the Dash framework and Plotly to visualize statistical data for an anonymous automobile company. The dashboard is structured into two distinct reports, each providing valuable insights into the company's performance.
 
 ## Project Structure
