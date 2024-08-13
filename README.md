@@ -1,5 +1,8 @@
 <img src="https://github.com/user-attachments/assets/ef0a5280-7030-472e-a53d-5d9b2288d830" alt="Header"/>
-# Data-Visualization-with-Python-IBM
+
+
+# **Data-Visualization-with-Python-IBM**
+
 
   # 📄 Summary
   This course teaches how to present and visualize complex data in a manner that makes sense to people, and allows for insights to be easily seen and derived. This course makes use of several Python data visualization libraries such as Matplotlib, Seaborn, Plotly, and Folium, to explore Canadian immigration data. It also covers dashboard creation using Plotly Dash, with a Peer graded assignment combining the skills learned to analyse and report US domestic airline flights performance in a dashboard.
