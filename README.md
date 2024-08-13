@@ -51,7 +51,10 @@ Issued by Coursera
 Authorized by IBM
 This badge earner has a good understanding of what data visualization is, uses of data visualization, and best practices when creating plots and visuals. The individual has the skills to use different Python Libraries, mainly Matplotlib and Seaborn to generate different types of visualization tools such as line plots, scatter plots, bubble plots, area plots, histograms, and bar charts. The earner is able to use the Folium library to visualize geospatial data and to create choropleth maps.
 
-# IBM Data Visualization Course Project: Automobile Statistics Dashboard using Dash
+
+
+# IBM Data Visualization Course Project:
+[Automobile Statistics Dashboard using Dash]("https://github.com/dattesh2507/Data-Visualization-with-Python-IBM/blob/main/Automobile%20Sales%20Statistics%20Dashboard.py")
 
 This project is the culmination of my work in the IBM Data Visualization course. It involves the creation of an interactive dashboard using the Dash framework and Plotly to visualize statistical data for an anonymous automobile company. The dashboard is structured into two distinct reports, each providing valuable insights into the company's performance.
 
