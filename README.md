@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/b4e4c51b-98ae-4d18-bfaa-80d2592c40d0" alt="Header"/>
+<img src="https://github.com/user-attachments/assets/ef0a5280-7030-472e-a53d-5d9b2288d830" alt="Header"/>
 # Data-Visualization-with-Python-IBM
 
   # 📄 Summary
